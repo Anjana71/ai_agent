@@ -16,7 +16,7 @@ This is a smart AI study buddy built with Python + Gradio in Colab.
 ![Reminder Output](reminder_response.png)
 
 ### 💬 Chat Response
-![Chatbot Output](chat.png)
+![Chatbot Output](Chat.png)
 
 ![Chatbot Output](Ai_assistant.png)
 
