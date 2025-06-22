@@ -18,6 +18,6 @@ This is a smart AI study buddy built with Python + Gradio in Colab.
 ### 💬 Chat Response
 ![Chatbot Output](Chat.png)
 
-![Chatbot Output](Ai_assistant.png)
+![Chatbot Output](AI_assistant.png)
 
 ![Chatbot Output](chat1.png)
