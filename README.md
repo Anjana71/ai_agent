@@ -10,10 +10,14 @@ This is a smart AI study buddy built with Python + Gradio in Colab.
 ## 📸 Screenshots
 
 ### 🎛 Gradio UI
-![Gradio UI](gradio ui.png)
+![Gradio UI](gradio_ui.png)
 
 ### 📅 Reminder Output
-![Reminder Output](reminder response.png)
+![Reminder Output](reminder_response.png)
 
 ### 💬 Chat Response
-![Chatbot Output](chat.png)(Ai assistant.png)(chat1.png)
+![Chatbot Output](chat.png)
+
+![Chatbot Output](Ai_assistant.png)
+
+![Chatbot Output](chat1.png)
